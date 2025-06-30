@@ -23,7 +23,7 @@ const Register = () => {
         <h2 className="text-2xl font-bold mb-6 text-center text-gray-800">Register for Excel Analytics</h2>
         
         <div className="text-center mb-4">
-          <img src="/assets/excel-icon.svg" alt="Excel Analytics" className="h-24 mx-auto mb-4" />
+          <img src="src\components\auth\assets\excel-icon.svg" alt="Excel Analytics" className="h-24 mx-auto mb-4" />
           <p className="text-gray-600 mb-6">Create your account to access the analytics dashboard</p>
         </div>
 
